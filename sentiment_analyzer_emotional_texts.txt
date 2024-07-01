@@ -1,0 +1,40 @@
+emotional_words = {
+    "Happiness and Pride": [
+        "Honored", "Congratulations", "Proud", "Grateful", "Good memories", 
+        "Excited", "Great", "Idealistic", "Pride", "Progress", "Happiness", 
+        "Charitable", "Strength", "Sense of purpose", "Blessing"
+    ],
+    "Inspiration and Motivation": [
+        "Accomplished", "Hope", "Believe", "Impact", "Vision", "Initiative", 
+        "Achievements", "Big meaningful projects", "Purpose", "Defining works", 
+        "Potential", "Turn their dreams into something great", "Courage"
+    ],
+    "Nostalgia and Sentimentality": [
+        "Memories", "Friendships", "Families", "Met", "Started dating", 
+        "Most important person in my life", "Thanks"
+    ],
+    "Empathy and Understanding": [
+        "Misunderstood", "Struggle", "Depression", "Disconnected", "Left behind", 
+        "Cynical", "Undocumented", "Struggling"
+    ],
+    "Responsibility and Commitment": [
+        "Duty", "Obligation", "Challenge", "Society", "Global community", 
+        "Equality", "Freedom", "Social contract", "Universal basic income", 
+        "Continuous education", "Promoting equal opportunity", "Giving back", 
+        "Giving time", "Hand", "Purpose for others"
+    ],
+    "Uncertainty and Fear": [
+        "Wondered", "Alone", "Hardest time", "Afraid", "Mistakes", "Issues", 
+        "Unstable time", "Left behind", "Targeted", "Conflict zones", "Deny"
+    ],
+    "Gratitude and Appreciation": [
+        "Grateful", "Thankful", "Appreciate", "Thanks"
+    ],
+    "Compassion and Support": [
+        "Help", "Give a hand", "Support", "Encourage"
+    ],
+    "Ambition and Vision": [
+        "Dream", "Big vision", "Connect the whole world", "Generational challenge", 
+        "Opportunity"
+    ]
+}
